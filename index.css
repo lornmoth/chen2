@@ -21,6 +21,11 @@ p a { color: blue; text-decoration: underline; }
  background:#2f4d0c;
  color:white;
 }
+.m_box_bar {
+ background:#800000;
+ color:white;
+}
+
 h2.m_box {
 	background-color:#2f4d0c;
 }

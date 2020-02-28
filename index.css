@@ -16,6 +16,11 @@ img {
 	margin: 1em;
 	background-color: white;
 }
+.m_box_red {
+	border: 1px solid #800000;
+	margin: 1em;
+	background-color: #f0e0d6;
+}
 p a { color: blue; text-decoration: underline; }
 .m_box_bar {
  background:#2f4d0c;

@@ -2,23 +2,16 @@
 
 **TABLE OF CONTENTS:**
 
-**§0 Abstract**
+0. Abstract
+1. Static Imageboard's Inherent Uniqueness
+2. Static Imageboard's Inherent Flaws: Difficult Exit
+3. The Realtime Innovation
+4. Realtime Imageboards Solve Free Exit
+5. Towards a Patchwork Future
 
-**§1 Static Imageboard's Inherent Uniqueness **
+# §0.0 Abstract, §1.0.0 Static Imageboard's Inherent Uniqueness, §1.2 Cultural Production, §1.3 Social Software, 2.2 Barriers To Exit, §3.2 Chronological Survey of Realtime Imageboards, **
 
-**§2 Static Imageboard's Inherent Flaws: Difficult Exit**
-
-**§3 The Realtime Innovation **
-
-**§4 Realtime Imageboards Solve Free Exit**
-
-**§5 Towards a Patchwork Future**
-
-**§A Hyperboardea Toolkit**
-
-**§0.0 Abstract, §1.0.0 Static Imageboard's Inherent Uniqueness, §1.2 Cultural Production, §1.3 Social Software, 2.2 Barriers To Exit, §3.2 Chronological Survey of Realtime Imageboards, **
-
-**§0.0 Abstract**
+# §0.0 Abstract
 
 ## §1.0.0 Static Imageboard's Inherent Uniqueness
 
